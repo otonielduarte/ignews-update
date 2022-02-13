@@ -6,7 +6,7 @@ import { getPrismicClient } from "../../../services/prismic";
 import { Post } from "../../../types/post";
 import { formatLongDateString } from "../../../utils/formatDate";
 
-import style from './styles.module.scss'
+import style from '../post.module.scss'
 
 
 interface PostPageProps {
